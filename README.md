@@ -22,7 +22,7 @@ Com experiência na área de redes de computadores, onde tive a minha formação
 
 ## Projetos:
 
-*Análise dos Dados do Airbnb - *Berlim - Alemanha
+* Análise dos Dados do Airbnb - *Berlim - Alemanha
 
 
 ---
