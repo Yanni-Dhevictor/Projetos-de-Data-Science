@@ -22,7 +22,8 @@ Com experiência na área de redes de computadores, onde tive a minha formação
 
 ## Projetos:
 
-* Análise dos Dados do Airbnb - *Berlim - Alemanha
+*  [Análise dos Dados do Airbnb - *Berlim - Alemanha](https://github.com/Yanni-Dhevictor/Projetos-de-Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Viagem_para_Alemanha.ipynb)
+* [Uma análise da violência no Rio de Janeiro](https://github.com/Yanni-Dhevictor/Projetos-de-Data-Science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
 
 ---
