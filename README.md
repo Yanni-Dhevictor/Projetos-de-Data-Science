@@ -24,9 +24,9 @@ Com experiência na área de redes de computadores, onde tive a minha formação
 
 *  [Análise dos Dados do Airbnb - *Berlim - Alemanha](https://github.com/Yanni-Dhevictor/Projetos-de-Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Viagem_para_Alemanha.ipynb)
 
-*  [Uma análise da violência no Rio de Janeiro](https://github.com/Yanni-Dhevictor/Projetos-de-Data-Science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
 *  [Analisando a violência no Rio de Janeiro](https://github.com/Yanni-Dhevictor/Projetos-de-Data-Science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
 
+* [Panorama do COVID-19 no mundo](https://github.com/Yanni-Dhevictor/Projetos-de-Data-Science/blob/master/%5BPROJETO%5DPANORAMA_DO_COVID_19.ipynb)
 ---
