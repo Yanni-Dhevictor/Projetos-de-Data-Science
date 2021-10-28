@@ -12,7 +12,7 @@ Com experiência na área de redes de computadores, onde tive a minha formação
 
 
 
-**Background in:** Python, Redes de computadores, gerência de projetos.
+**Background in:** Python, Redes de computadores, gerência de projetos, Machine Learning.
 
 **Links:**
 * [Blog]() -Indisponível no momento
