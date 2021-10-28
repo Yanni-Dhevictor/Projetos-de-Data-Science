@@ -4,7 +4,7 @@
   <img src="DS_Yanni_banner.PNG" >
 </p>
 
-# Yanni Marinho
+# Yanni Dhevictor
 <sub>*Técnico em redes de computadores & Cientista de dados* Bacharel em Ciência da computação</sub>
 
 Com experiência na área de redes de computadores, onde tive a minha formação pela instituição privada de ensino técnico SENAI. No qual tive a oportunidade de conhecer sobre esse mundo da tecnologia e trabalhar minhas habilidades em solução de problemas, trabalho em grupo e pensamento crítico, assim como nos meu conhecimentos em gerenciamento de projetos sendo possível analisar os riscos e recursos e assim podendo efetuar decisões mais precisas. Atualmente migrando para a área de ciência de dados afim de agregar ainda mais minha formação de ciêntista da computação com a área de trabalho com dados, com o intuito de aprimorar constantemente os conhecimentos que tenho e obter ainda mais conhecimento para minha carreira profissional.
